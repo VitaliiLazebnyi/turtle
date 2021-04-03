@@ -59,7 +59,7 @@ import time
 #      colors = ["red", "blue", "green", "yellow", "black"]
 #      return random.choice(colors)
 
-#   random.randint(0, 10)       # віпадкове число від 0 до 10
+#  random.randint(0, 10)       # випадкове число від 0 до 10
 
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - -
